@@ -44,7 +44,7 @@ Make sure Python 3.11 or later is installed.
 ### Install Required Libraries
 pip install opencv-python matplotlib numpy
 
-text
+
 
 ## How to Run
 
@@ -52,12 +52,12 @@ text
 2. Navigate to the project folder:
 cd project-1
 
-text
+
 
 3. Run the script:
 python filter.py
 
-text
+
 
 4. The program will:
 - Load the sample image
@@ -73,7 +73,7 @@ project-1/
 ├── output_filters.png # Output showing all filtered results
 └── README.md # This file
 
-text
+
 
 ## Output
 The program generates a comparison view showing:
